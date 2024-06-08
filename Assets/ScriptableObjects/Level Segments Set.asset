@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b63b15f323d2ba4385ca1a4bd870659, type: 3}
+  m_Name: Level Segments Set
+  m_EditorClassIdentifier: 
+  levelSegmentCollections:
+  - minLevel: 1
+    segments:
+    - prefab: {fileID: 6376048261334310911, guid: 7935ee4973cd45c4980198df35041781, type: 3}
+      frequency: 1
+    - prefab: {fileID: 6376048261334310911, guid: 33e4da5eb0a7832429d107eeaa01ce9b, type: 3}
+      frequency: 1
+    - prefab: {fileID: 6376048261334310911, guid: 7a90dcc95af8f9341b29c84f32b7a1a3, type: 3}
+      frequency: 1
+  - minLevel: 3
+    segments:
+    - prefab: {fileID: 6376048261334310911, guid: bfd04a5f647b538479496711a69f6af6, type: 3}
+      frequency: 1
+    - prefab: {fileID: 6376048261334310911, guid: 1263df3c73b1bbb4da8143f4121c9fc4, type: 3}
+      frequency: 1
+  - minLevel: 7
+    segments:
+    - prefab: {fileID: 6376048261334310911, guid: 190ba2b340912d04792fd29cd0c328ab, type: 3}
+      frequency: 1
+    - prefab: {fileID: 6376048261334310911, guid: bf252c8e245df40499d11d44d6bf86bd, type: 3}
+      frequency: 1
+    - prefab: {fileID: 6376048261334310911, guid: a18ff49e5d1edec4f95acf93f782f861, type: 3}
+      frequency: 1
+  - minLevel: 10
+    segments:
+    - prefab: {fileID: 6376048261334310911, guid: 2b7e8d6c8249ca94b9a5bdf916660830, type: 3}
+      frequency: 1
+    - prefab: {fileID: 6376048261334310911, guid: 85ee363050676024cae717ce04e924bb, type: 3}
+      frequency: 1
+  - minLevel: 15
+    segments:
+    - prefab: {fileID: 6376048261334310911, guid: ea8df5bcf7935ad4d895c5a06ad9a6db, type: 3}
+      frequency: 1
+    - prefab: {fileID: 2970254447461895934, guid: 1b8ebd55915029848a052dcd9e0aa113, type: 3}
+      frequency: 1
+    - prefab: {fileID: 2970254447461895934, guid: 574b88cab1b4bc848b3d470e87838f76, type: 3}
+      frequency: 1
+    - prefab: {fileID: 2970254447461895934, guid: f00c538a769351944809374a5f753c4b, type: 3}
+      frequency: 1
+  - minLevel: 20
+    segments:
+    - prefab: {fileID: 6376048261334310911, guid: 0f2ac326f3dce6a438467222d88e2ab9, type: 3}
+      frequency: 1
+    - prefab: {fileID: 6376048261334310911, guid: 10ce91e961cb60b478fc5b34c29eef91, type: 3}
+      frequency: 1
+    - prefab: {fileID: 6376048261334310911, guid: 69008718f3ca20649a15b17670987ab7, type: 3}
+      frequency: 1

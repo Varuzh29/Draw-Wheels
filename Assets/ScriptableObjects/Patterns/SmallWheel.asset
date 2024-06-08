@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fab8e2fe6fc944842b562fa2b28064f0, type: 3}
+  m_Name: SmallWheel
+  m_EditorClassIdentifier: 
+  points:
+  - {x: -0.14617896, y: 0.50421953, z: 0}
+  - {x: -0.3974321, y: 0.45857882, z: 0}
+  - {x: -0.557322, y: 0.25319052, z: 0}
+  - {x: -0.60300493, y: 0.002155304, z: 0}
+  - {x: -0.64868784, y: -0.248878, z: 0}
+  - {x: -0.46595848, y: -0.45427084, z: 0}
+  - {x: -0.23754454, y: -0.56838584, z: 0}
+  - {x: 0.0137043, y: -0.65966535, z: 0}
+  - {x: 0.26495695, y: -0.6368444, z: 0}
+  - {x: 0.44768786, y: -0.4542756, z: 0}
+  - {x: 0.5162113, y: -0.20324183, z: 0}
+  - {x: 0.5618944, y: 0.047793627, z: 0}
+  - {x: 0.5390513, y: 0.2988298, z: 0}
+  - {x: 0.42484784, y: 0.52704334, z: 0}
+  - {x: 0.17359304, y: 0.6183295, z: 0}
+  - {x: -0.07765961, y: 0.6183312, z: 0}
+  - {x: -0.32891202, y: 0.5498698, z: 0}
+  - {x: -0.46595645, y: 0.3216505, z: 0}

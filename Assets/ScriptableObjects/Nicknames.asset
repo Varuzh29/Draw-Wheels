@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c063f5b031a5ea418155ced21ca9015, type: 3}
+  m_Name: Nicknames
+  m_EditorClassIdentifier: 
+  collection:
+  - gexly
+  - adguard
+  - Rider_Blade
+  - s0t
+  - Temo4kin
+  - shelpi
+  - kvg-mur
+  - olaf_alien
+  - simonov-89
+  - Valex
+  - DJ Daks NN
+  - yorik11
+  - gilana
+  - aa1ye
+  - Marchik60
+  - Dark Paladin
+  - Nostromo771
+  - Qmaks
+  - SnowCalmth
+  - virusmix
+  - LiS7x
+  - nikola.120
+  - Vaterland PRO
+  - alexbabashov
+  - Vivat Library!
+  - Mikasik
+  - TIMOHA69
+  - DezZzO
+  - ORDANAX
+  - NoZDR
+  - MaxQjust
+  - Novich
+  - alnikol
+  - lutik-in
+  - sety
+  - Kiberjen
+  - Evil Grimoire
+  - Klik
+  - deni_didro
+  - ForestRG
+  - Alexell
+  - MATPAC
+  - Mr.BoS
+  - DJ NIKOLAY-D
+  - Timoha_Klaupikl
+  - povargek
+  - U-III
+  - Allhazeread
+  - xmoonlight
+  - matsam
+  - ta16237

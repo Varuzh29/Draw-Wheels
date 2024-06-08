@@ -1,0 +1,2 @@
+Build path: C:/Users/Varuzhan/Documents/Unity Projects/Draw Wheels/Builds/GameDistribution
+Build number: 56

@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 420dd86c487b47a4f9b2e815e8f3be32, type: 3}
+  m_Name: Game Config
+  m_EditorClassIdentifier: 
+  showDebugMessages: 0
+  maxPointsCount: 100
+  lineStep: 0.25
+  slowMotionTimeScale: 0.05
+  enemysMinimalLevel: 1
+  segmentsCount: 4
+  levelSegmentsSet: {fileID: 11400000, guid: f5a8bc7484e0b8840944e05326ea4ff7, type: 2}
+  startSegment: {fileID: 6376048261334310911, guid: 7935ee4973cd45c4980198df35041781, type: 3}
+  endSegment: {fileID: 6376048261334310911, guid: d28e1125f0e9d40469708f7854bd39b6, type: 3}
+  torqueForce: 1000
+  speedPriceStep: 100
+  incomePriceStep: 50
+  unlockPriceStep: 200
+  giftCoinsAmount: 200
+  loadLevelFromPlayerData: 1
+  initialMoneyAmount: 100
+  showInterstitialOnSceneLoaded: 1
+  minimalInterstitialInterval: 0
+  storageKey: key0
+  reviewPromptLevel: 10
+  nicknames: {fileID: 11400000, guid: 2eedd3c9969c1e54a9523fc4d2a403b3, type: 2}
+  flags: {fileID: 11400000, guid: 500b4e6d7247aaa43bcf136517db45a0, type: 2}
+  colorSchemes: {fileID: 11400000, guid: 7b249e8dc1e8e254cbca743c334241d9, type: 2}
+  skins: {fileID: 11400000, guid: a86121fb90d235748851e2dce758763e, type: 2}
+  initialSkins: 00000000
+  cooldown:
+    days: 1
+    hours: 0
+    minutes: 0
+    seconds: 0
+    milliseconds: 0
+  expiresIn:
+    days: 2
+    hours: 0
+    minutes: 0
+    seconds: 0
+    milliseconds: 0
+  maxStreak: 6
+  dailyRewardAmountStep: 200
+  CSVFile: {fileID: 4900000, guid: 4a5e524eb8351434580e96a608c39adf, type: 3}
+  inEditorLanguage: pt
